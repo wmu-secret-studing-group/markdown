@@ -18,7 +18,7 @@
 **tips**：液体T2比固体和大分子物质来说长。
 
 **T1&T2&质子密度加权**
-T1一般为500-1000ms，T2为50-100ms。 
+T1一般为500-1000ms，T2为50-100ms。
 
 |    |  TR  |  TE  |
 | --- | --- | --- |
@@ -32,3 +32,5 @@ T1一般为500-1000ms，T2为50-100ms。
 **参考书**：B.Kastler, 深入了解MRI基础 第六版, 人民军医出版社, MASSON出版社. 4-37(307)
 
 [附上一个pdf 点这里](https://github.com/wmu-secret-studing-group/markdown/blob/master/imaging/磁共振原理.pdf)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品由<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">JEFF</span>采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
